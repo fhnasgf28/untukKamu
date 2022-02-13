@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+body {
+  margin: 20px auto;
+  font-family: poppins;
+  font-weight: 300;
+  width: 600px;
+  text-align: center;
+}
+
+button {
+  background: cornflowerblue;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  font-family: poppins;
+  margin: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+  outline: none;
+}
+
+button:hover {
+  background: orange;
+}
